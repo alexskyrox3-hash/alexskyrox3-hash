@@ -41,7 +41,7 @@ Explore um porão, encontre objetos, impeça a entrada de uma criatura e descubr
 
 **Tecnologias:** Godot · GDScript
 
-**Status:** 🧪 Em desenvolvimento
+**Status:** Capitulo 1 (Pronto)
 
 ---
 
