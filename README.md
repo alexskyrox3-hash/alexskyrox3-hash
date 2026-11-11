@@ -1,3 +1,5 @@
+![RoxCompany — gato preto de olhos amarelos em um estúdio retrô de terror](roxcompany-banner.png)
+
 
 # SKYROX // DEV
 
