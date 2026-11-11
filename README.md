@@ -3,7 +3,7 @@
 
 <div align="center">
 
-# ⚡ SKYROX
+# SKYROX
 
 **DEV • EDITOR • CREATOR**
 
@@ -17,7 +17,7 @@
 
 ---
 
-## 👤 Sobre mim
+## Sobre mim
 
 Sou **Alex Junior (SkyRox)**, criador de conteúdo, narrador e desenvolvedor independente brasileiro.
 
@@ -25,16 +25,16 @@ Trabalho com narrativas de terror, desenvolvimento de jogos e ferramentas de aut
 
 Atualmente estou desenvolvendo dois projetos principais:
 
-## 🛠️ Projetos
+## Projetos
 
 ### 🎬 RoxCut — Editor inteligente
 Editor de vídeo independente desenvolvido com Python, PySide6 e FFmpeg.
 
 **Objetivo:** automatizar cortes, detectar pausas, erros de fala e repetições, além de facilitar a edição de vídeos narrativos.
 
-**Status:** 🚧 Em desenvolvimento
+**Status:** Em desenvolvimento
 
-### 🎮 The Xupisco Gamelys
+### The Xupisco Gamelys
 Jogo de terror em primeira pessoa desenvolvido na Godot.
 
 Explore um porão, encontre objetos, impeça a entrada de uma criatura e descubra os segredos da Garçonaria.
@@ -45,7 +45,7 @@ Explore um porão, encontre objetos, impeça a entrada de uma criatura e descubr
 
 ---
 
-## 💻 Tecnologias
+## Tecnologias
 
 Python · GDScript · Godot · PySide6 · FFmpeg · Git · DaVinci Resolve
 
@@ -53,7 +53,7 @@ Python · GDScript · Godot · PySide6 · FFmpeg · Git · DaVinci Resolve
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexskyrox3-hash&show_icons=true&theme=dark&hide_border=true)
 
-## 📺 Conteúdo
+## Conteúdo
 
 Narrativas de terror, documentários, jogos e experiências interativas.
 
