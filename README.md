@@ -29,7 +29,7 @@ Atualmente estou desenvolvendo dois projetos principais:
 
 ## Projetos
 
-### 🎬 RoxCut — Editor inteligente
+### 🎬 RoxCut Editor inteligente
 Editor de vídeo independente desenvolvido com Python, PySide6 e FFmpeg.
 
 **Objetivo:** automatizar cortes, detectar pausas, erros de fala e repetições, além de facilitar a edição de vídeos narrativos.
@@ -55,7 +55,7 @@ Python · GDScript · Godot · PySide6 · FFmpeg · Git · DaVinci Resolve
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexskyrox3-hash&show_icons=true&theme=dark&hide_border=true)
 
-## Conteúdo
+Conteúdo
 
 Narrativas de terror, documentários, jogos e experiências interativas.
 
